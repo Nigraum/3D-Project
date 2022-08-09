@@ -31,3 +31,12 @@ header .logo {
   position: relative;
   max-width: 80px;
 }
+
+header ul {
+  position: relative;
+  display: flex;
+}
+
+header ul li {
+  list-style: none;
+}
